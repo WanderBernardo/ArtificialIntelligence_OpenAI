@@ -26,18 +26,22 @@ The goal is to demonstrate the tool's navigation and how its resources function.
 ### Before for use the Models, need create Key:
 It will be necessary when it was used in the your APIs. 
 
-1 - Select ``` Settings ```:
+01 - Select ``` Settings ```:
 ![image](https://github.com/user-attachments/assets/f7e5c83e-c3c2-4003-8493-d72bc48aa27a)
 
-2 - Select on the ``` API Keys ``` and after ``` + Create new secret key ```:
+02 - Select on the ``` API Keys ``` and after ``` + Create new secret key ```:
 ![image](https://github.com/user-attachments/assets/d449571a-d829-46e6-b61b-ee7408f0b1c8)
 
-3 - Fill out fields:
+03 - Fill out fields:
 - Name: Opcional
 - Project: select  ``` Default project ```. Case, Don't have project.
 ![image](https://github.com/user-attachments/assets/8555e029-e996-4fcb-8373-8303500faed4)
 
+04 - Save Key because it will be necessary when it was used in the your APIs.
+![image](https://github.com/user-attachments/assets/0c1740a9-c05e-41d2-a8f8-c0b6e4711ada)
 
+### To starting use, need register ``` Credit Card ```
+![image](https://github.com/user-attachments/assets/dc5d7cb0-7faf-49c8-ad84-1ee9aa09925c)
 
 
 
