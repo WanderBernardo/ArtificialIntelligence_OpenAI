@@ -34,7 +34,7 @@ It will be necessary when it was used in the your APIs.
 
 3 - Fill out fields:
 - Name: Opcional
-- Project: select  ``` Default project ```
+- Project: select  ``` Default project ```. Case, Don't have project.
 ![image](https://github.com/user-attachments/assets/8555e029-e996-4fcb-8373-8303500faed4)
 
 
