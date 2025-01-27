@@ -1,4 +1,4 @@
-# ArtificialIntelligence_OpenAI
+# Artificial Intelligence: OpenAI
 The goal is to demonstrate the tool's navigation and how its resources function.
 
 - Generic Methods and Modo for any Task
